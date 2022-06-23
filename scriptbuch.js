@@ -24,7 +24,7 @@ class Buch{
         console.log("Buch steht nicht zu Verfügung")
     }
     }
-
+//Test
     verkauft() {
         if (this.Exemplar-1) {
             console.log("Buch wurde verkauft")
